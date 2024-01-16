@@ -1,0 +1,12 @@
+[
+        {
+                "name": "Glycolaldehyde",
+                "production": 1,
+                "requiredTech": "Primordial Soup",
+        },
+        {
+                "name": "Breslow Catalyst",
+                "production": 1,
+                "requiredTech": "Primordial Soup",
+        }
+]
