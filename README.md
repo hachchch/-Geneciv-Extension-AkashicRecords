@@ -1,3 +1,5 @@
 A mod that extention Geneciv.
 it more focusing on Cellbiology
-[Vanila Geneciv](https://github.com/hachchch/-GeneCiv-)
+
+# How to play it?
+you have to install [Geneciv](https://github.com/hachchch/-GeneCiv-)
