@@ -8,6 +8,7 @@
 		"techs": [
                         {
                                 "name": "Chemiosmosis",
+				"quote": "'Chemiosmosis is the movement of ions across a semipermeable membrane bound structure, down their electrochemical gradient. An important example is the formation of adenosine triphosphate by the movement of hydrogen ions across a membrane during cellular respiration or photosynthesis.' - wikipedia",
                                 "row": 7,
                                 "prerequisites": ["Protein"]
                         },
