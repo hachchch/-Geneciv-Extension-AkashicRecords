@@ -68,6 +68,6 @@
                 "name": "Entropy Bonus",
                 "cost": 1,
                 "isNationalWonder": true,
-                "uniques": ["Remove [Entropy Bonus] [in this city]","Only available <when above [99] [Entropy]>","Costs [100] [Entropy]","[+10]% [Gold]","[+10]% [Science]","[+10]% [Gold] <for [9999] turns> <hidden from users>","[+10]% [Science] <for [9999] turns> <hidden from users>"]
+                "uniques": ["Remove [Entropy Bonus] [in this city] <hidden from users>","Only available <when above [99] [Entropy]>","Costs [100] [Entropy]","[+10]% [Gold]","[+10]% [Science]","[+10]% [Gold] <for [9999] turns> <hidden from users>","[+10]% [Science] <for [9999] turns> <hidden from users>"]
         }
 ]
