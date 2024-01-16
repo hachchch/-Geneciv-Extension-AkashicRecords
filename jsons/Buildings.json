@@ -1,9 +1,6 @@
 [
         // Organic Formation
         {
-                "name": "",
-        },
-        {
                 "name": "Enantioselective Synthesis",
                 "requiredTech": "Primordial Soup",
                 "uniques": ["Provides [1] [Organic Compound]"],
@@ -36,5 +33,34 @@
                 "name": "Breslow Catalyst",
                 "uniques": ["Provides [1] [Organic Compound]"],
                 "requiredTech": "Primordial Soup",
+        },
+        // Cell Formation
+        {
+                "name": "Liposomes",
+                "requiredTech": "Prokaryotic Cell",
+                "uniques": ["Costs [10] [Organic Compound]"],
+                "requiredTech": "Protocells",
+        },
+        {
+                "name": "Micelles",
+                "requiredTech": "Prokaryotic Cell",
+                "requiredBuilding": "Liposomes",
+                "uniques": ["Costs [15] [Organic Compound]"],
+                "requiredTech": "Protocells",
+        },
+        {
+                "name": "Protocells",
+                "requiredTech": "Prokaryotic Cell",
+                "requiredBuilding": "Micelles",
+                "uniques": ["Costs [20] [Organic Compound]","Enable to Construct All Eukaryote in this city"]
+        },
+        // Wonders
+        {
+                "name": "Reproduction",
+                "isNationalWonder": true,
+                "requiredTech": "Mitosis",
+                "uniques": ["Gain a free [Liposomes] [in all cities]",
+                "Gain a free [Micelles] [in all cities]",
+                "Gain a free [Protocells] [in all cities]"]
         }
 ]
