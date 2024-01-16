@@ -39,14 +39,12 @@
                 "name": "Liposomes",
                 "requiredTech": "Prokaryotic Cell",
                 "uniques": ["Costs [10] [Organic Compound]"],
-                "requiredTech": "Protocells",
         },
         {
                 "name": "Micelles",
                 "requiredTech": "Prokaryotic Cell",
                 "requiredBuilding": "Liposomes",
                 "uniques": ["Costs [15] [Organic Compound]"],
-                "requiredTech": "Protocells",
         },
         {
                 "name": "Protocells",
