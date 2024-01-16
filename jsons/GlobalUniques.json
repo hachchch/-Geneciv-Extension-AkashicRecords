@@ -1,0 +1,11 @@
+{
+        "name": "Global uniques",
+        "uniques": ["Provides [1] [Entropy] <for [10] turns> <upon adopting [All]>",
+        "Provides [1] [Entropy] <for [10] turns> <upon declaring war with a major Civilization>",
+        "Provides [1] [Entropy] <for [10] turns> <upon entering the [All]>",
+        "Provides [1] [Entropy] <for [10] turns> <upon conquering a city>",
+        "Provides [1] [Entropy] <for [10] turns> <upon founding a Pantheon>",
+        "Provides [1] [Entropy] <for [10] turns> <upon founding a Religion>",
+        "Provides [1] [Entropy] <for [10] turns> <upon enhancing a Religion>"
+        ]
+}
