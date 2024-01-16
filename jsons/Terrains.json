@@ -1,0 +1,15 @@
+[
+        {
+                "name": "Hydrothermal Vents",
+		"type": "TerrainFeature",
+                "movementCost": 2,
+                "production": 1,
+		"defenceBonus": -0.25,
+                "uniques": ["Provides [1] [Organic Compounds]",
+                "Considered [Desirable] when determining start locations",
+		"Considered [Production] when determining start locations",
+                "Rough terrain",
+                "A Region is formed with at least [60]% [Hydrothermal Vents] tiles, with priority [3]"],
+		"occursOn": ["Ocean"]
+        }
+]
