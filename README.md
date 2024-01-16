@@ -1,1 +1,1 @@
-[Base Ruleset mod](https://github.com/hachchch/-GeneCiv-)
+[Vanila Geneciv](https://github.com/hachchch/-GeneCiv-)
