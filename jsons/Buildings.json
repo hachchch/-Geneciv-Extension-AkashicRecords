@@ -1,26 +1,31 @@
 [
         {
+                "name": "Enantioselective Synthesis",
+                "requiredTech": "Primordial Soup",
+                "uniques": ["Provides [1] [Organic Compound]"],
+        },
+        {
                 "name": "Uracil",
                 "science": 2,
-                "uniques": ["Nucleobase","Limited to [1] per Civilization","Costs [15] [Organic Compound]","Only available <in cities without a [Nucleobase]>"],
+                "uniques": ["Nucleobase","Limited to [1] per Civilization","Costs [14] [Organic Compound]","Only available <in cities without a [Nucleobase]>"],
                 "requiredTech": "DNA",
         },
         {
                 "name": "Thymine",
                 "science": 2,
-                "uniques": ["Nucleobase","Limited to [1] per Civilization","Costs [15] [Organic Compound]","Only available <in cities without a [Nucleobase]>"],
+                "uniques": ["Nucleobase","Limited to [1] per Civilization","Costs [14] [Organic Compound]","Only available <in cities without a [Nucleobase]>"],
                 "requiredTech": "DNA",
         },
         {
                 "name": "Cytosine",
                 "science": 2,
-                "uniques": ["Nucleobase","Limited to [1] per Civilization","Costs [15] [Organic Compound]","Only available <in cities without a [Nucleobase]>"],
+                "uniques": ["Nucleobase","Limited to [1] per Civilization","Costs [14] [Organic Compound]","Only available <in cities without a [Nucleobase]>"],
                 "requiredTech": "DNA",
         },
         {
                 "name": "Glycolaldehyde",
                 "production": 1,
-                "uniques": ["Costs [10] [Organic Compound]"],
+                "uniques": ["Costs [7] [Organic Compound]"],
                 "requiredTech": "Primordial Soup",
         },
         {
