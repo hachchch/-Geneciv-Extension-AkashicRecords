@@ -1,0 +1,8 @@
+[
+        {
+                "name": "Organic Compound",
+                "resourceType": "Strategic",
+		"revealedBy": "Primordial Soup",
+                "uniques": ["Stockpiled","Excluded from map editor","Cannot be traded","Stockpiled","Not shown on world screen"]
+        }
+]
