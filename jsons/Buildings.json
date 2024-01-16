@@ -67,10 +67,9 @@
                 "name": "Warm Little Pond",
                 "isNationalWonder": true,
                 "production": 4,
-                "science": 3,
                 "requiredTech": "Amino Acid",
                 "quote": "A warm little pond is a hypothetical terrestrial shallow water environment on early Earth under which the origin of life could have occurred. The term was originally coined by Charles Darwin in an 1871 letter to his friend Joseph Dalton Hooker. This idea is related to later work such as the Oparin-Haldane hypothesis and the Miller–Urey experiment, which respectively provided a hypothesis for life’s origin from a primordial soup of organics and a proof of concept for the mechanism by which biomolecules and their precursors may have formed.",
-                "uniques": ["Costs [150] [Organic Compound]"]
+                "uniques": ["Costs [150] [Organic Compound]","Provides [8] [Organic Compound]"]
         },
         // Entropy Bonus
         {
