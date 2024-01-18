@@ -38,18 +38,18 @@
         {
                 "name": "Liposomes",
                 "requiredTech": "Prokaryotic Cell",
-                "uniques": ["Costs [10] [Organic Compound]"],
+                "requiredBuilding": "Micelles",
+                "uniques": ["Costs [15] [Organic Compound]"],
         },
         {
                 "name": "Micelles",
                 "requiredTech": "Prokaryotic Cell",
-                "requiredBuilding": "Liposomes",
-                "uniques": ["Costs [15] [Organic Compound]"],
+                "uniques": ["Costs [10] [Organic Compound]"],
         },
         {
                 "name": "Protocells",
                 "requiredTech": "Prokaryotic Cell",
-                "requiredBuilding": "Micelles",
+                "requiredBuilding": "Liposomes",
                 "uniques": ["Costs [20] [Organic Compound]","Enable to Construct All Eukaryote in this city"]
         },
         // Wonders
