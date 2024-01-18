@@ -1,6 +1,8 @@
 {
         "name": "Global uniques", // Entropy is a word of thermodynamics. so I'm still thinking about how to define it.
         "uniques": [// "Provides [1] [Entropy] <for [10] turns> <upon adopting [All]>",
+                "Cannot build [Cells] units <in cities without a [Protocells]>",
+                "Cannot build [Water Animal] units <in cities without a [Protocells]>",
         "Provides [1] [Entropy] <for [10] turns> <upon declaring war with a major Civilization>",
         // "Provides [1] [Entropy] <for [10] turns> <upon entering the [All]>",
         "Provides [1] [Entropy] <for [10] turns> <upon conquering a city>",
