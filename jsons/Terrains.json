@@ -5,7 +5,7 @@
                 "movementCost": 2,
                 "production": 1,
 		"defenceBonus": -0.25,
-                "uniques": ["Provides [1] [Organic Compound]",
+                "uniques": [// "Provides [1] [Organic Compound]",
                 "Considered [Desirable] when determining start locations",
 		"Considered [Production] when determining start locations",
                 "Rough terrain",
